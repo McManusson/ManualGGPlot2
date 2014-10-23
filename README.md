@@ -10,7 +10,7 @@ Nuevo repositorio en GitHub. Añadido `barplot.r`.
 `GGPlot2` Manual for Everything
 =============
 
-A elemental manual about graphing in R written in a funny tone, with special emphasis in `ggplot2`.
+An elemental manual about graphing in R written in a funny tone, with special emphasis in `ggplot2`.
 
 **1/10/2014**
 
